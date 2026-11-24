@@ -5,7 +5,7 @@
 
 CLI attack surface scanner for automated discovery of environment secrets, database dumps, and credential leakage aligned with NZISM and CERT NZ.
 
-Developed and maintained by the offensive security and attack surface division of **TAVARDT New Zealand**.
+Developed and maintained by the offensive security and attack surface division of **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python scanner.py enterprise.co.nz -json
 For automated surface monitoring and detailed vulnerability analysis, access the official web diagnostic suite:
 
 * **Exposed Files and Secrets Scanner**
-* **TAVARDT New Zealand Corporate Portal**
+* **TAVARDT Corporate Portal**
 
 ***
 
 ## Enterprise Attack Surface Consulting
 
-For penetration testing, vulnerability remediation, and zero-trust perimeter defense in New Zealand, contact **TAVARDT New Zealand**.
+For penetration testing, vulnerability remediation, and zero-trust perimeter defense in New Zealand, contact **TAVARDT**.
 
 ***
 

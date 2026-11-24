@@ -1,14 +1,13 @@
 # Exposed Files and Sensitive Credentials Scanner | TAVARDT New Zealand
 
 [![Exposed Files Scanner](https://img.shields.io/badge/TAVARDT-Attack%20Surface-5b3cf5.svg)](https://tools.tavardt.com/nz/exposed-files-scanner/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-New%20Zealand-00C853.svg)](https://ag.tavardt.com/nz/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 CLI attack surface scanner for automated discovery of environment secrets, database dumps, and credential leakage aligned with NZISM and CERT NZ.
 
-Developed and maintained by the offensive security and attack surface division of **[TAVARDT New Zealand](https://ag.tavardt.com/nz/)**.
+Developed and maintained by the offensive security and attack surface division of **TAVARDT New Zealand**.
 
----
+***
 
 ## Attack Surface Discovery Scope
 
@@ -18,7 +17,7 @@ Developed and maintained by the offensive security and attack surface division o
 * **Infrastructure Orchestration**: Verification of public `docker-compose.yml` assets and server disclosures via `phpinfo.php`.
 * **Regulatory Alignment**: Designed in alignment with New Zealand Information Security Manual (NZISM) and CERT NZ Guidelines.
 
----
+***
 
 ## Installation and Quick Start
 
@@ -33,20 +32,20 @@ python scanner.py enterprise.co.nz
 To export results in structured JSON format:
 
 ```bash
-python scanner.py enterprise.co.nz --json
+python scanner.py enterprise.co.nz -json
 ```
 
----
+***
 
 ## Online Web Diagnostics
 
 For automated surface monitoring and detailed vulnerability analysis, access the official web diagnostic suite:
 
-* **[Exposed Files and Secrets Scanner](https://tools.tavardt.com/nz/exposed-files-scanner/)**
-* **[TAVARDT New Zealand Corporate Portal](https://ag.tavardt.com/nz/)**
+* **Exposed Files and Secrets Scanner**
+* **TAVARDT New Zealand Corporate Portal**
 
----
+***
 
 ## Enterprise Attack Surface Consulting
 
-For penetration testing, vulnerability remediation, and zero-trust perimeter defense in New Zealand, contact **[TAVARDT New Zealand](https://ag.tavardt.com/nz/contact/)**.
+For penetration testing, vulnerability remediation, and zero-trust perimeter defense in New Zealand, contact **TAVARDT New Zealand**.
